@@ -6,8 +6,8 @@ var kittens = [
   'Garfield'
   ];
 
-function destructivelyAppendKitten(array, element) {
-  array.push(element);
-  return array;
+function destructivelyAppendKitten(name) {
+  kittens.push(name);
+  return kittens;
 }
 
