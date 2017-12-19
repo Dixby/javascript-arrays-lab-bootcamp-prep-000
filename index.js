@@ -1,4 +1,4 @@
-var Kitten = [
+var kitten = [
   'Milo',
   'Otis',
   'Garfield'
