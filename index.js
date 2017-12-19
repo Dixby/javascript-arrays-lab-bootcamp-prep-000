@@ -21,3 +21,6 @@ function destructivelyPrependKitten(name) {
   return kittens;
 }
 
+function destructivelyRemoveFirstKitten() {
+  kittens.
+}
